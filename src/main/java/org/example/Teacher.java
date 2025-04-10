@@ -1,6 +1,6 @@
 package org.example;
 
-public class Teacher implements Prototype<Teacher>,Cloneable {
+public class Teacher implements Prototype<Teacher> {
 
   private String name;
   private String email;
